@@ -2,6 +2,8 @@
 ## Description
 This is a simple inventory management system made in C# with database connectivity. It can perform 4 basic functions of add, delete, update and select of database.
 
+Code explaination: https://www.youtube.com/watch?v=gGwyfnL-J_w
+
 ### Output
 
 ![L13-1-1](Assets/L13-1-1.png)
